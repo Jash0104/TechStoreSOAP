@@ -1,0 +1,4 @@
+﻿<Solution>
+  <Project Path="TechStore.Servicio/TechStore.Servicio.csproj" Id="3816cec2-0cc1-47af-9dc9-352bf0e41817" />
+  <Project Path="TechStore.Cliente/TechStore.Cliente.csproj" Id="82f7a0ea-45f1-453d-992a-6cf4afd356a8" />
+</Solution>
